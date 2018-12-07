@@ -11,7 +11,7 @@ import (
 	"unicode"
 
 	"github.com/Masterminds/sprig"
-	"github.com/myntra/roulette/log"
+	"github.com/bwhthd/roulette/log"
 )
 
 // default delimeters
